@@ -3,10 +3,9 @@
 # Siddhi Waghmare
 ### AI Engineer · Backend Developer · Published Researcher
 
-[**Portfolio**](https://siddhi-waghmare-portfolio.vercel.app/) • [**LinkedIn**](https://linkedin.com/in/siddhi-waghmare-tech) • [**Medium**](https://medium.com/@waghmaresiddhu1607)
+[**Portfolio**](https://siddhi-waghmare-portfolio.vercel.app/) • [**LinkedIn**](https://linkedin.com/in/siddhi-waghmare-tech) • [**LeetCode**](https://leetcode.com/u/siddhi_waghmare/) • [**Medium**](https://medium.com/@waghmaresiddhu1607)
 
 </div>
-
 ---
 
 ### 🚀 Research & Systems
