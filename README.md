@@ -32,5 +32,4 @@
 
 ---
 
-### 📈 Contribution Stats
-*(Your GitHub contribution graph will automatically sit here, so keep this area simple.)*
+
