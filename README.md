@@ -1,18 +1,36 @@
-🚀 Engineering & Research Focus
-I build intelligent, production-grade systems that turn data into decisions. I bridge the gap between academic research and scalable backend architecture.
+<div align="center">
 
-Key Achievements:
+# Siddhi Waghmare
+### AI Engineer · Backend Developer · Published Researcher
 
-Published AI Systems: Author of FINSPIRE (IEEE ESCI 2026) and MailGlance (IJSRA 2025).
+[**Portfolio**](https://siddhi-waghmare-portfolio.vercel.app/) • [**LinkedIn**](https://linkedin.com/in/siddhi-waghmare-tech) • [**Medium**](https://medium.com/@waghmaresiddhu1607)
 
-Core Tech Stack: Python, Django/FastAPI, NLP (FinBERT/VADER), PostgreSQL, Redis.
+</div>
 
-Professional Experience: Delivering scalable backends and automated data pipelines for real-time applications.
+---
 
-"I combine strong backend engineering with AI/ML depth—comfortable across the full stack from PostgreSQL at the data layer to Angular on the frontend."
+### 🚀 Research & Systems
+*I build production-grade AI systems, not just prototypes.*
 
-🛠 Technical Expertise
-🔗 Let's Connect
-Portfolio: siddhi-waghmare-portfolio.vercel.app
+| Project | Focus | Tech |
+| :--- | :--- | :--- |
+| **[FINSPIRE](https://github.com/wsiddhi/finspire)** | IEEE ESCI 2026 | Python, FinBERT, FastAPI |
+| **[MailGlance](https://github.com/wsiddhi/mailglance)** | IJSRA 2025 | Transformers, Google API |
 
-Email: waghmaresiddhi1607@gmail.com
+---
+
+### 🛠 Tech Stack
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-05998b?style=flat&logo=fastapi&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169e1?style=flat&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+
+</div>
+
+---
+
+### 📈 Contribution Stats
+*(Your GitHub contribution graph will automatically sit here, so keep this area simple.)*
