@@ -7,7 +7,7 @@
 
 Building AI-powered systems using Machine Learning, NLP, Data Analytics, Backend Engineering, and Generative AI.
 
-<p>
+<p align="center">
   <a href="https://siddhi-waghmare-portfolio.vercel.app/">🌐 Portfolio</a> •
   <a href="https://linkedin.com/in/siddhi-waghmare-tech">💼 LinkedIn</a> •
   <a href="https://github.com/wsiddhi">💻 GitHub</a> •
@@ -71,8 +71,8 @@ Automated Binance Futures Trading System
 ### 👁 AI-Based Glaucoma Prediction
 Machine Learning Powered Healthcare Prediction System
 
-### 🎮 Progress RPG Contribution
-Open Source Contributor – Fixed UI/UX issues and submitted Pull Requests
+### 🎮 Progress RPG
+Open Source Contributor – Fixed UI/UX Issues and Submitted Pull Requests
 
 ---
 
@@ -111,9 +111,9 @@ Open Source Contributor – Fixed UI/UX issues and submitted Pull Requests
 ![Deep Learning](https://img.shields.io/badge/Deep_Learning-red?style=for-the-badge)
 ![NLP](https://img.shields.io/badge/NLP-green?style=for-the-badge)
 ![Transformers](https://img.shields.io/badge/Transformers-yellow?style=for-the-badge)
-![FinBERT](https://img.shields.io/badge/FinBERT-orange?style=for-the-badge)
 ![Generative AI](https://img.shields.io/badge/Generative_AI-purple?style=for-the-badge)
 ![LLMs](https://img.shields.io/badge/LLMs-black?style=for-the-badge)
+![FinBERT](https://img.shields.io/badge/FinBERT-orange?style=for-the-badge)
 
 ---
 
@@ -124,6 +124,7 @@ Open Source Contributor – Fixed UI/UX issues and submitted Pull Requests
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Data Analytics](https://img.shields.io/badge/Data_Analytics-success?style=for-the-badge)
 ![Data Visualization](https://img.shields.io/badge/Data_Visualization-orange?style=for-the-badge)
+![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)
 
 ---
 
@@ -139,7 +140,6 @@ Open Source Contributor – Fixed UI/UX issues and submitted Pull Requests
 
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
 
@@ -162,19 +162,19 @@ Open Source Contributor – Fixed UI/UX issues and submitted Pull Requests
 - 📚 IJSRA Research Publication
 - 🚀 Open Source Contributor (Progress RPG)
 - 💡 Smart India Hackathon Participant
-- ☁️ AWS Certified
-- ❄️ Snowflake Certified
-- 💻 Built Multiple AI & Analytics Projects
+- ☁️ AWS Academy Cloud Foundations
+- ❄️ Snowflake Data Warehousing Certified
+- 🎯 Cleared TCS AI Careers Assessment
 
 ---
 
 ## 🎯 Current Focus
 
-- Generative AI Applications
+- Generative AI & LLM Applications
 - Machine Learning Engineering
-- Backend Development
+- Backend Development with Django & FastAPI
 - Open Source Contributions
-- Data Analytics
+- Data Analytics & Visualization
 - Research & Innovation
 
 ---
