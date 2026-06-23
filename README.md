@@ -14,7 +14,7 @@ Building AI-powered systems using Machine Learning, NLP, Data Analytics, Backend
   <a href="https://medium.com/@waghmaresiddhu1607">✍️ Medium</a>
 </p>
 
-<img src="https://komarev.com/ghpvc/?username=wsiddhi&label=Profile+Views&color=blueviolet&style=for-the-badge" />
+
 
 </div>
 
