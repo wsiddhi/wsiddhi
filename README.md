@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hi, I'm Siddhi Waghmare
+# Hi, I'm Siddhi Waghmare
 
 ### AI Engineer • Machine Learning Developer • Backend Developer • Data Analyst • Researcher
 
