@@ -40,7 +40,7 @@ Building AI-powered systems using Machine Learning, NLP, Data Analytics, Backend
 
 Real-time Financial Market Sentiment Analysis using FinBERT and VADER.
 
-**Tech Stack:** Python • FinBERT • VADER • Pandas • SQLite • Streamlit
+**Tech Stack:** Python • FinBERT • VADER • Pandas • SQLite • Streamlit • React
 
 ---
 
